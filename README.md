@@ -23,3 +23,7 @@ Aqui no meu GitHub você encontrará projetos que representam a minha evolução
 ![Tailwind](https://img.shields.io/badge/-Tailwind-333333?style=flat&logo=tailwind-css)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+
+<br />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mellacer&layout=compact&show_icons=true&theme=buefy)](https://github.com/mellacer/github-readme-stats)
