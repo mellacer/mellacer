@@ -1,9 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=810EF7FF&size=35&left=true&vCenter=true&width=1000&pause=100&duration=5000&lines=Olá,+meu+nome+é+Mary+Lacerda;Desenvolvedora+Front-End;Seja+bem-vindo!🌺)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=810EF7FF&size=35&left=true&vCenter=true&width=1000&pause=100&duration=5000&lines=Olá,+meu+nome+é+Mary+Lacerda;Desenvolvedora+Web;Seja+bem-vindo!🌺)](https://git.io/typing-svg)
 
 
 <h2> 👩🏻‍💻 &nbsp;Sobre Mim </h2>
 
-Sou **Desenvolvedora Front-End**, atualmente no 5º semestre de **Ciência da Computação**. Comecei meus estudos motivada pela curiosidade e pelo desejo de criar meus próprios projetos do zero. Desde então, cada novo aprendizado reforça minha vontade de evoluir e construir minha carreira na área de tecnologia. 
+Sou **Desenvolvedora Web**, atualmente no 5º semestre de **Ciência da Computação**. Comecei meus estudos motivada pela curiosidade e pelo desejo de criar meus próprios projetos do zero. Desde então, cada novo aprendizado reforça minha vontade de evoluir e construir minha carreira na área de tecnologia. 
 
 - 🎓 Cursando **Ciência da Computação** (Centro universitario internacional UNINTER) e  Desenvolvimento Full Stack no **Instituto PROA**.
 - 🎨 Focada em transformar layouts complexos do **Figma** em componentes funcionais.
